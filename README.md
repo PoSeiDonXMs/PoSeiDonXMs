@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **madhavsharmams42@gmail.com**
 
-- ⚡ Fun fact **I am a really good solver**
+- ⚡ Fun fact **I am a convergent thinker**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
