@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif)
+![MasterHead](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
 <h1 align="center">Hi 👋, I'm Madhav Sharma</h1>
 <h3 align="center">A passionate Devops enthusiast from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
